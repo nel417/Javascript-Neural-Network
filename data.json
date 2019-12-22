@@ -1,0 +1,82 @@
+[
+  {
+    "text": "create",
+    "category": "design"
+  },
+  {
+    "text": "sketch",
+    "category": "design"
+  },
+  {
+    "text": "wireframe",
+    "category": "design"
+  },
+  {
+    "text": "coded",
+    "category": "developer"
+  },
+  {
+    "text": "unit-tests",
+    "category": "developer"
+  },
+  {
+    "text": "program",
+    "category": "developer"
+  },
+  {
+    "text": "terminal",
+    "category": "developer"
+  },
+  {
+    "text": "photoshop",
+    "category": "design"
+  },
+  {
+    "text": "prototype in figma",
+    "category": "design"
+  },
+  {
+    "text": "code",
+    "category": "developer"
+  },
+  {
+    "text": "adobe illustrator",
+    "category": "design"
+  },
+  {
+    "text": "illustrator",
+    "category": "design"
+  },
+  {
+    "text": "javascript",
+    "category": "developer"
+  },
+  {
+    "text": "python",
+    "category": "developer"
+  },
+  {
+    "text": "graphic design",
+    "category": "design"
+  },
+  {
+    "text": "UI",
+    "category": "design"
+  },
+  {
+    "text": "ui",
+    "category": "design"
+  },
+  {
+      "text": "QA",
+      "category": "developer"
+  },
+  {
+      "text": "debug",
+      "category": "developer"
+  },
+  {
+    "text": "assets",
+    "category": "design"
+}
+]
